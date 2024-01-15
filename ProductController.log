@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T19:02:07.012592400Z</date>
+  <millis>1705345327012</millis>
+  <nanos>592400</nanos>
+  <sequence>5</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1, Name=lousra, Age=24, Email=is@is.is, Password=1234], Product [ID=1, Name=iphone 12, Price=500, Expiration Date=12/09/2019]</message>
+</record>
+<record>
+  <date>2024-01-15T19:02:20.289903400Z</date>
+  <millis>1705345340289</millis>
+  <nanos>903400</nanos>
+  <sequence>6</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>getProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1, Name=lousra, Age=24, Email=is@is.is, Password=1234], Product [ID=1, Name=iphone 12, Price=500, Expiration Date=12/09/2019]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T19:12:48.736707500Z</date>
+  <millis>1705345968736</millis>
+  <nanos>707500</nanos>
+  <sequence>4</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=2, Name=abdou, Age=23, Email=abdou@gmail.com, Password=abdou1234], Product [ID=2, Name=iphone 13 pro, Price=699 EUR, Expiration Date=]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T21:01:49.058174Z</date>
+  <millis>1705352509058</millis>
+  <nanos>174000</nanos>
+  <sequence>4</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=1234, Name=Iphone 15 Pro, Price=1499, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T21:03:09.302998900Z</date>
+  <millis>1705352589302</millis>
+  <nanos>998900</nanos>
+  <sequence>5</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>getProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=1234, Name=Iphone 15 Pro, Price=1499, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T21:05:01.848609100Z</date>
+  <millis>1705352701848</millis>
+  <nanos>609100</nanos>
+  <sequence>6</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>updateProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=1234, Name=Iphone 15 Pro, Price=1499, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T21:05:52.007992500Z</date>
+  <millis>1705352752007</millis>
+  <nanos>992500</nanos>
+  <sequence>7</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>getProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=1234, Name=Iphone 15 pro promo, Price=1299, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T21:07:27.561586200Z</date>
+  <millis>1705352847561</millis>
+  <nanos>586200</nanos>
+  <sequence>9</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=2222, Name=iphone 12, Price=899, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T21:07:51.882037400Z</date>
+  <millis>1705352871882</millis>
+  <nanos>37400</nanos>
+  <sequence>10</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=iphone 13 pro, Name=, Price=, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T21:08:09.011765100Z</date>
+  <millis>1705352889011</millis>
+  <nanos>765100</nanos>
+  <sequence>11</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=3333, Name=iphone 14 pro, Price=1199, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T21:08:28.324775800Z</date>
+  <millis>1705352908324</millis>
+  <nanos>775800</nanos>
+  <sequence>12</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=iphone XS, Name=iphone XS, Price=499, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T21:09:06.011465200Z</date>
+  <millis>1705352946011</millis>
+  <nanos>465200</nanos>
+  <sequence>13</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=5555, Name=MacBook Pro, Price=1500, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T21:09:24.316772Z</date>
+  <millis>1705352964316</millis>
+  <nanos>772000</nanos>
+  <sequence>14</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=6666, Name=MacBook M1, Price=1999, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T21:09:46.057585600Z</date>
+  <millis>1705352986057</millis>
+  <nanos>585600</nanos>
+  <sequence>15</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=7777, Name=Samsung s22, Price=699, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T21:10:09.836709500Z</date>
+  <millis>1705353009836</millis>
+  <nanos>709500</nanos>
+  <sequence>16</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=Samsung S23 ultra, Name=samsung s23 ultra, Price=1499, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T21:16:09.481000100Z</date>
+  <millis>1705353369481</millis>
+  <nanos>100</nanos>
+  <sequence>19</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=2222, Name=samsung A33, Price=249, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T21:16:30.383840200Z</date>
+  <millis>1705353390383</millis>
+  <nanos>840200</nanos>
+  <sequence>22</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>deleteProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234]</message>
+</record>
+<record>
+  <date>2024-01-15T21:19:40.770505400Z</date>
+  <millis>1705353580770</millis>
+  <nanos>505400</nanos>
+  <sequence>26</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>getProduct</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234], Product [ID=2222, Name=samsung A33, Price=249, Expiration Date=]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T22:02:30.081972100Z</date>
+  <millis>1705356150081</millis>
+  <nanos>972100</nanos>
+  <sequence>4</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=2222, Name=Mahdaoui, Age=23, Email=abdou.mahdaoui@umontpellier.fr, Password=abdou1234], Product [ID=a8888, Name=samsung s21, Price=699, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T22:03:00.171433700Z</date>
+  <millis>1705356180171</millis>
+  <nanos>433700</nanos>
+  <sequence>5</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=2222, Name=Mahdaoui, Age=23, Email=abdou.mahdaoui@umontpellier.fr, Password=abdou1234], Product [ID=a9999, Name=samsung s21 plus, Price=749, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T22:03:20.773831500Z</date>
+  <millis>1705356200773</millis>
+  <nanos>831500</nanos>
+  <sequence>6</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=2222, Name=Mahdaoui, Age=23, Email=abdou.mahdaoui@umontpellier.fr, Password=abdou1234], Product [ID=a1000, Name=Samsung F21, Price=250, Expiration Date=]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T22:06:24.088599800Z</date>
+  <millis>1705356384088</millis>
+  <nanos>599800</nanos>
+  <sequence>4</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=3245, Name=Adel, Age=30, Email=adel@gmail.fr, Password=adel1234], Product [ID=adel1234, Name=Hp elit book, Price=1000, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T22:06:40.176677Z</date>
+  <millis>1705356400176</millis>
+  <nanos>677000</nanos>
+  <sequence>5</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=3245, Name=Adel, Age=30, Email=adel@gmail.fr, Password=adel1234], Product [ID=a2356, Name=acer, Price=750, Expiration Date=]</message>
+</record>
+<record>
+  <date>2024-01-15T22:07:05.222960200Z</date>
+  <millis>1705356425222</millis>
+  <nanos>960200</nanos>
+  <sequence>6</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=3245, Name=Adel, Age=30, Email=adel@gmail.fr, Password=adel1234], Product [ID=a4568, Name=dell, Price=899, Expiration Date=]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T22:34:46.193430600Z</date>
+  <millis>1705358086193</millis>
+  <nanos>430600</nanos>
+  <sequence>4</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>User [ID=4567, Name=LOUSRA Issam, Age=25, Email=issam@gmail.com, Password=1234], Product [ID=99999, Name=Iphone SE, Price=399, Expiration Date=]</message>
+</record>

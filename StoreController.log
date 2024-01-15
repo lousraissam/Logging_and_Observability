@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T18:59:56.786610500Z</date>
+  <millis>1705345196786</millis>
+  <nanos>610500</nanos>
+  <sequence>4</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>20</thread>
+  <message>User [ID=1, Name=lousra, Age=24, Email=iss@gm.gm, Password=1234]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T19:01:19.087436800Z</date>
+  <millis>1705345279087</millis>
+  <nanos>436800</nanos>
+  <sequence>4</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>20</thread>
+  <message>User [ID=1, Name=lousra, Age=24, Email=is@is.is, Password=1234]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T19:09:39.943999200Z</date>
+  <millis>1705345779943</millis>
+  <nanos>999200</nanos>
+  <sequence>4</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>20</thread>
+  <message>User [ID=1, Name=lousra, Age=24, Email=lousra@gmail.com, Password=1234]</message>
+</record>
+<record>
+  <date>2024-01-15T19:10:03.085483300Z</date>
+  <millis>1705345803085</millis>
+  <nanos>483300</nanos>
+  <sequence>5</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>20</thread>
+  <message>User [ID=1, Name=lousra, Age=24, Email=lousra@gmail.com, Password=1234]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T21:06:47.979156Z</date>
+  <millis>1705352807979</millis>
+  <nanos>156000</nanos>
+  <sequence>8</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234]</message>
+</record>
+<record>
+  <date>2024-01-15T21:10:11.045605400Z</date>
+  <millis>1705353011045</millis>
+  <nanos>605400</nanos>
+  <sequence>17</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234]</message>
+</record>
+<record>
+  <date>2024-01-15T21:10:20.293789800Z</date>
+  <millis>1705353020293</millis>
+  <nanos>789800</nanos>
+  <sequence>18</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234]</message>
+</record>
+<record>
+  <date>2024-01-15T21:16:15.802208100Z</date>
+  <millis>1705353375802</millis>
+  <nanos>208100</nanos>
+  <sequence>20</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234]</message>
+</record>
+<record>
+  <date>2024-01-15T21:16:16.941306400Z</date>
+  <millis>1705353376941</millis>
+  <nanos>306400</nanos>
+  <sequence>21</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234]</message>
+</record>
+<record>
+  <date>2024-01-15T21:19:15.313788100Z</date>
+  <millis>1705353555313</millis>
+  <nanos>788100</nanos>
+  <sequence>23</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>initStore</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234]</message>
+</record>
+<record>
+  <date>2024-01-15T21:19:25.901559300Z</date>
+  <millis>1705353565901</millis>
+  <nanos>559300</nanos>
+  <sequence>24</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234]</message>
+</record>
+<record>
+  <date>2024-01-15T21:19:28.250362200Z</date>
+  <millis>1705353568250</millis>
+  <nanos>362200</nanos>
+  <sequence>25</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>20</thread>
+  <message>User [ID=1111, Name=Lousra, Age=24, Email=issam@umontpellier.fr, Password=issam1234]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T22:03:29.521601900Z</date>
+  <millis>1705356209521</millis>
+  <nanos>601900</nanos>
+  <sequence>7</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>20</thread>
+  <message>User [ID=2222, Name=Mahdaoui, Age=23, Email=abdou.mahdaoui@umontpellier.fr, Password=abdou1234]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T22:07:09.426787500Z</date>
+  <millis>1705356429426</millis>
+  <nanos>787500</nanos>
+  <sequence>7</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.StoreController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.StoreController</class>
+  <method>getStore</method>
+  <thread>20</thread>
+  <message>User [ID=3245, Name=Adel, Age=30, Email=adel@gmail.fr, Password=adel1234]</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>

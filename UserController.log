@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-12-24T21:52:18.609013941Z</date>
+  <millis>1671918738609</millis>
+  <nanos>13941</nanos>
+  <sequence>3</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.UserController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.UserController</class>
+  <method>createUser</method>
+  <thread>19</thread>
+  <message>User Creation</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-12T17:23:47.734222100Z</date>
+  <millis>1705080227734</millis>
+  <nanos>222100</nanos>
+  <sequence>3</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.UserController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.UserController</class>
+  <method>createUser</method>
+  <thread>20</thread>
+  <message>User Creation</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T18:59:50.849001Z</date>
+  <millis>1705345190849</millis>
+  <nanos>1000</nanos>
+  <sequence>3</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.UserController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.UserController</class>
+  <method>createUser</method>
+  <thread>20</thread>
+  <message>User Creation</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T19:01:13.153520700Z</date>
+  <millis>1705345273153</millis>
+  <nanos>520700</nanos>
+  <sequence>3</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.UserController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.UserController</class>
+  <method>createUser</method>
+  <thread>20</thread>
+  <message>User Creation</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T19:09:19.369026600Z</date>
+  <millis>1705345759369</millis>
+  <nanos>26600</nanos>
+  <sequence>3</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.UserController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.UserController</class>
+  <method>createUser</method>
+  <thread>20</thread>
+  <message>User Created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T19:12:05.101486600Z</date>
+  <millis>1705345925101</millis>
+  <nanos>486600</nanos>
+  <sequence>3</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.UserController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.UserController</class>
+  <method>createUser</method>
+  <thread>20</thread>
+  <message>User Created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T20:57:58.203521Z</date>
+  <millis>1705352278203</millis>
+  <nanos>521000</nanos>
+  <sequence>3</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.UserController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.UserController</class>
+  <method>createUser</method>
+  <thread>20</thread>
+  <message>User Created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T22:01:37.261892200Z</date>
+  <millis>1705356097261</millis>
+  <nanos>892200</nanos>
+  <sequence>3</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.UserController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.UserController</class>
+  <method>createUser</method>
+  <thread>20</thread>
+  <message>User Created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T22:05:49.482939400Z</date>
+  <millis>1705356349482</millis>
+  <nanos>939400</nanos>
+  <sequence>3</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.UserController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.UserController</class>
+  <method>createUser</method>
+  <thread>20</thread>
+  <message>User Created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
