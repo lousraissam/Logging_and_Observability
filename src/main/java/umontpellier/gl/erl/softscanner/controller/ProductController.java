@@ -10,6 +10,7 @@ import umontpellier.gl.erl.softscanner.model.Store;
 import umontpellier.gl.erl.softscanner.services.ProductService;
 
 import java.io.IOException;
+import java.time.LocalDateTime;
 import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 
@@ -18,19 +19,15 @@ import java.util.logging.Logger;
 public class ProductController {
 
     private static ProductService productService = new ProductService();
-    private static Logger ProductLogger = Logger.getLogger(ProductController.class.getName());
+    private static Logger productLogger = Logger.getLogger(ProductController.class.getName());
     private FileHandler fileHandler;
-    private IOException e1638976231000;
 
-
-    public ProductController () {
+    public ProductController() {
         try {
             this.fileHandler = new FileHandler("ProductController.log", true);
-            ProductLogger.addHandler(this.fileHandler);
-        } catch (SecurityException securityException) {
-            ProductLogger.severe("Impossible to open FileHandler");
-        } catch (IOException ioException) {
-            ProductLogger.severe("Impossible to open FileHandler");
+            productLogger.addHandler(this.fileHandler);
+        } catch (SecurityException | IOException e) {
+            productLogger.severe("Error initializing FileHandler");
         }
     }
 
@@ -38,31 +35,39 @@ public class ProductController {
     @ResponseStatus(HttpStatus.CREATED)
     public void createProduct(Store store) {
         Product product = productService.createProduct(store);
-        ProductLogger.info(SoftScannerApplication.getCurrentUser().toString()+ ", "+  product.toString());
 
+        // Log structured information directly
+        productLogger.info(String.format("Timestamp: %s, Event: Product Creation, User: %s, Action: createProduct, Product: %s",
+                LocalDateTime.now(), SoftScannerApplication.getCurrentUser(), product));
     }
-
 
     @PutMapping("/update")
     @ResponseStatus(value = HttpStatus.ACCEPTED)
     public void updateProduct(Store store) throws ProductAlreadyExisteException, ProductNotFoundException {
         Product product = productService.updateProduct(store);
-        ProductLogger.info(SoftScannerApplication.getCurrentUser().toString()+ ", "+  product.toString());
-    }
 
+        // Log structured information directly
+        productLogger.info(String.format("Timestamp: %s, Event: Product Update, User: %s, Action: updateProduct, Product: %s",
+                LocalDateTime.now(), SoftScannerApplication.getCurrentUser(), product));
+    }
 
     @DeleteMapping("/delete")
     @ResponseStatus(value = HttpStatus.ACCEPTED)
     public void deleteProduct(Store store) {
-        ProductLogger.info(SoftScannerApplication.getCurrentUser().toString());
+        // Log structured information directly
+        productLogger.info(String.format("Timestamp: %s, Event: Product Deletion, User: %s, Action: deleteProduct",
+                LocalDateTime.now(), SoftScannerApplication.getCurrentUser()));
+
         productService.deleteProduct(store);
     }
-
 
     @GetMapping("/get")
     @ResponseStatus(value = HttpStatus.OK)
     public void getProduct(Store store) {
         Product product = productService.getProduct(store);
-        ProductLogger.info(SoftScannerApplication.getCurrentUser().toString()+ ", "+  product.toString());
+
+        // Log structured information directly
+        productLogger.info(String.format("Timestamp: %s, Event: Product Retrieval, User: %s, Action: getProduct, Product: %s",
+                LocalDateTime.now(), SoftScannerApplication.getCurrentUser(), product));
     }
 }

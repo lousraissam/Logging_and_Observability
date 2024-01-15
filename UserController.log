@@ -230,3 +230,70 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 </log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T22:34:20.825845600Z</date>
+  <millis>1705358060825</millis>
+  <nanos>845600</nanos>
+  <sequence>3</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.UserController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.UserController</class>
+  <method>createUser</method>
+  <thread>20</thread>
+  <message>User Created</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T23:17:09.616328600Z</date>
+  <millis>1705360629616</millis>
+  <nanos>328600</nanos>
+  <sequence>3</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.UserController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.UserController</class>
+  <method>createUser</method>
+  <thread>20</thread>
+  <message>User Created</message>
+</record>

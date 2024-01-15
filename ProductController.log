@@ -425,3 +425,58 @@
   <thread>20</thread>
   <message>User [ID=4567, Name=LOUSRA Issam, Age=25, Email=issam@gmail.com, Password=1234], Product [ID=99999, Name=Iphone SE, Price=399, Expiration Date=]</message>
 </record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-01-15T23:17:24.638951Z</date>
+  <millis>1705360644638</millis>
+  <nanos>951000</nanos>
+  <sequence>4</sequence>
+  <logger>umontpellier.gl.erl.softscanner.controller.ProductController</logger>
+  <level>INFO</level>
+  <class>umontpellier.gl.erl.softscanner.controller.ProductController</class>
+  <method>createProduct</method>
+  <thread>20</thread>
+  <message>Timestamp: 2024-01-16T00:17:24.638951, Event: Product Creation,
+   User: User [ID=1898, Name=Lousra Med, Age=30, Email=med@gmail.com, Password=1234],
+    Action: createProduct, Product: Product [ID=8978, Name=Iphone 11, Price=580, Expiration Date=]
+    </message>
+</record>
